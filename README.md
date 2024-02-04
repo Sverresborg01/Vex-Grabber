@@ -25,7 +25,7 @@ To install the grabber, clone the repository using git:
 git clone https://github.com/Sverresborg01/Vex-Grabber
 ```
 
-```http
+```bash
 First things first launch our Requirements.py file
 ```
 
