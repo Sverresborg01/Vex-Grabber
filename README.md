@@ -2,7 +2,7 @@
 
 ## License
 
-Please refer to our [license](https://choosealicense.com/licenses/mit/) for detailed information.
+Please refer to our [license](https://unlicense.org) for detailed information.
 ## FAQ
 
 #### How do I Install it?
