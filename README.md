@@ -25,13 +25,17 @@ To install the grabber, clone the repository using git:
 git clone https://github.com/Sverresborg01/Vex-Grabber
 ```
 
-Now lets optimize the script to our liking:
+```http
+First things first launch our Requirements.py file
+```
+
+Now let's optimize the script to our liking:
 
 ```bash
 Head into our script and look for "webhook_url" at line 55, enter your own Webhook instead of "Replace_with_Webhook"
 ```
 
-Thats about it! You can test this on yourself, friends or anyone. Just remember i do not take any responsebility for your actions!# Vex Grabber
+That's about it! You can test this on yourself, friends, or anyone. Just remember I do not take any responsibility for your actions!# Vex Grabber
 
 
 # Running Test
